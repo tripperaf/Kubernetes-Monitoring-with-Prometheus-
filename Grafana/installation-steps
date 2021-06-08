@@ -1,3 +1,4 @@
+#steps
 helm list --all --namespace metrics
 helm status prometheus --namespace metrics
 mkdir /opt/grafana (Worker Node1)
