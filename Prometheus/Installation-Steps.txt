@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #steps to be followed
+=======
+#no changes done
+>>>>>>> 98304be2947587d89d58036d5ec875a105c09b78
 curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3
 chmod 700 get_helm.sh
 ./get_helm.sh
